@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292872267753",
+    "firebase_url": "https://films-6b3ed.firebaseio.com",
+    "project_id": "films-6b3ed",
+    "storage_bucket": "films-6b3ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292872267753:android:8d74db7955fb05b0b08d78",
+        "android_client_info": {
+          "package_name": "com.example.laba1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292872267753-cgg0kd8nro78u93p822hdpdbkrksq0qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBkChb-6cT_TIEbwThjeYaL6hvVlp0Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292872267753-cgg0kd8nro78u93p822hdpdbkrksq0qa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292872267753-prlmg980tb4r16e8mafap53vdjthr3j9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daria.films"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

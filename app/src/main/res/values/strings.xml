@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">laba1</string>
+    <string-array name="fonts">
+        <item>boomboom</item>
+        <item>beer_money</item>
+        <item>gnyrwn</item>
+        <item>christmas_script</item>
+        <item>lobster</item>
+    </string-array>
+</resources>

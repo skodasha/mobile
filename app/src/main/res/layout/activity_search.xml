@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".searchActivity">
+
+
+    <Switch
+        android:id="@+id/switchFilter"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Show only with video"
+        android:textColor="@color/colorAccent"/>
+
+    <Switch
+        android:id="@+id/switchSort"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Sort by year"
+        android:textColor="@color/colorAccent"/>
+</LinearLayout>
